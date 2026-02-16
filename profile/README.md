@@ -66,7 +66,7 @@ Please read `CONTRIBUTING.md` in each repository before submitting changes.
 ## 💬 Community & Support
 
 - Use **GitHub Issues** to report bugs or request features
-- Join **Discussions** for questions and ideas
+- Join **Discussions** for questions and ideas https://github.com/chitmeo/community/discussions
 - Contact us via email for business inquiries
 
 We aim to respond as quickly as possible.
